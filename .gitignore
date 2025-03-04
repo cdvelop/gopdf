@@ -70,3 +70,7 @@ test/debug.test
 .scannerwork
 
 *.pdf
+
+*html
+*jpg
+*xlsx
